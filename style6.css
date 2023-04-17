@@ -1,8 +1,7 @@
-main{
-    background-color: brown;
-    width: 600px;
-    height: 500px;
+
+.text-container{
+    font-size: 1.5em;
 }
-p{
-    font-size: 16px;
+.text-container div{
+    font-size: 1.5em;
 }
