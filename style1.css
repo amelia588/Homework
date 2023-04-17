@@ -13,3 +13,12 @@
     border-radius: 2px;
     text-decoration: none;
 }
+.main-nav_item a:hover{
+    color:blue;
+}
+.main-item a:active{
+    color:red;
+}
+.main-nav_item a::after{
+    
+}
